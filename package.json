@@ -1,6 +1,6 @@
 {
   "name": "@edx/frontend-app-discussions",
-  "version": "0.1.4-gym.redwood",
+  "version": "0.1.5-gym.redwood",
   "description": "Gymnasium-specific Discussions Frontend",
   "repository": {
     "type": "git",

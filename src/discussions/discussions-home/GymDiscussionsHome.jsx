@@ -29,7 +29,7 @@ import { selectPostEditorVisible } from '../posts/data/selectors';
 import { isCourseStatusValid } from '../utils';
 import useFeedbackWrapper from './FeedbackWrapper';
 
-import { Footer as FooterSlot, Header } from '/@openedx/gym-frontend';
+import { Footer as FooterSlot, Header } from '@openedx/gym-frontend';
 
 import {Intercom, boot, update } from "@intercom/messenger-js-sdk";
 
